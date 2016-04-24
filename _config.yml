@@ -9,14 +9,14 @@
 #
 
 # Title and description of your site
-title:        'Simplicity'
-description:  'Simplicity is a fast and easy to use jekyll theme for minimalists concentrating on elegance and flexibility.'
+title:        "Gidjin's Blog"
+description:  'My thoughts on various aspects of programming'
 
 
 # Build settings
-url:          'https://phlow.github.io/simplicity'
+url:          'http://code.gedeons.com'
 baseurl:      ''
-urlimg:       'https://phlow.github.io/simplicity/images/'
+urlimg:       'http://code.gedeons.com/images/'
 markdown:     kramdown
 highlighter:  rouge
 permalink:    /:categories/:title/
@@ -94,7 +94,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for pages
+      author: 'John Gedeon'     # Default author for pages
   -
     scope:
       path: ''
@@ -103,7 +103,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for posts
+      author: 'John Gedeon'     # Default author for posts
 
 
 
@@ -113,7 +113,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id:  ''
 # alexa_verify_id:         ''
 
@@ -189,9 +189,9 @@ sass:
 # _/includes/_4_footer.html.
 
 socialmedia:
-    youtube: PhlowMedia
-    github: phlow
-    twitter: phlow
+    # youtube: PhlowMedia
+    github: gidjin
+    twitter: gidjin
     # facebook: phlow.media
     # soundcloud: phlow
     # tumblr: motizen

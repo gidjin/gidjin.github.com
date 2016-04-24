@@ -2,10 +2,4 @@
 title: Contact
 permalink: /contact/
 ---
-To use a contact form along with *Simplicity*, I suggest…
-
-…you use one of the following services. They all have a free plan. My first choice would be Wufoo.
-
-- [Wufoo](http://www.wufoo.com/)
-- [formspree.io](http://formspree.io/)
-- [Google Forms](https://www.google.de/intl/en/forms/about/)
+To contact me feel free to send me a message on <a href="https://twitter.com/{{ site.socialmedia.twitter }}" target="_blank" title="{{ site.language.follow_me_on }} Twitter">twitter</a>
