@@ -229,3 +229,5 @@ language:
     navigation_menu:          'Press Accesskey [6] for Navigation Menu'
     navigation_home:          'Press Accesskey [1] for Homepage'
     subscribe_to_my_rss_feed: 'Subscribe to my RSS Feed'
+
+theme: jekyll-theme-hacker
